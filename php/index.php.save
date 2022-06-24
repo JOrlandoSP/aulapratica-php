@@ -1,0 +1,21 @@
+<!-- Abaixo e declarado o corpo do html -->
+<html>
+	<header>
+
+		<title>Meu primeiro site em PHP! Woohoo!</title>
+
+	</header>
+
+	<body>
+
+		<?php
+			for ( $i = 0 ; $i <10 ; $i++) {
+			print( "Linha numero " . $i . "<br />");
+			}
+		?>
+
+	</body>
+
+
+
+</html>
