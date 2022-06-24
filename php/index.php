@@ -9,9 +9,9 @@
 
 		<?php
 			for ( $i = 0 ; $i <10 ; $i++) {
-			print( "Linha numero " .$i . "<br />");
+			print( "Linha numero " . $i . "<br />");
 			}
-		?>>
+		?>
 
 	</body>
 
